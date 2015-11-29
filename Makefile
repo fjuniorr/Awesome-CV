@@ -1,4 +1,4 @@
-cv.pdf: cv.tex
+all: 
 	xelatex cv.tex
 	rm *.aux
 	rm *.log
