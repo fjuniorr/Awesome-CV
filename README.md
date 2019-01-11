@@ -3,6 +3,7 @@ Awesome CV
 
 [**Awesome CV**](https://github.com/posquit0/Awesome-CV) is LaTeX template for a **CV(Curriculum Vitae)** or **resume** inspired by [Fancy CV](https://www.sharelatex.com/templates/cv-or-resume/fancy-cv). It is easy to customize your own template, especially since it is really written by a clean, semantic markup.
 
+A possible alternative that uses Rmarkdown is the [vitae](https://github.com/ropenscilabs/vitae) R package. Here is an [example](https://github.com/mitchelloharawild/CV) that is also inspired by Fancy CV.
 
 ## Preview
 You can see [PDF](https://raw.githubusercontent.com/fjuniorr/Awesome-CV/master/cv.pdf)
