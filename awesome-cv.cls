@@ -60,7 +60,7 @@
   \RequirePackage[utf8]{inputenc}
 \fi
 % Needed to manage math fonts
-\RequirePackage[math-style=TeX,vargreek-shape=unicode]{unicode-math}
+\RequirePackage{unicode-math} % see https://tex.stackexchange.com/questions/353136/compilation-error-option-unknown-unicode-math
 % Needed to use icons from font-awesome
 % (https://github.com/furl/latex-fontawesome)
 \RequirePackage{fontawesome}
